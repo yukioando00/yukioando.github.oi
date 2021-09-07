@@ -1,11 +1,10 @@
-/* Azur Blur v0.1 by MurakumoJP / https://github.com/Murakumo-JP /10.06.2020 */
 /* Cover Block */
 
 .list-container .cover-block {
     background-image: url("https://i.imgur.com/BdSaYNp.gif");
     background-repeat: no-repeat;
-	width: 500px;
-    height: 500px;
+	width: 1120px;
+    height: 1120px;
     background-color: #191919;
     margin-bottom: 52px;
     margin-left: 0;
@@ -13,6 +12,7 @@
     border-radius: 0px 0px 15px 15px;
 	box-shadow: 0px 0px 20px 5px #131722;
 }
+
 :root {
     --MenuHoverColor: #fff;
     --MenuColor: #9B9B9B;
